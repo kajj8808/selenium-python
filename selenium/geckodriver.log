@@ -1,0 +1,1390 @@
+1629117924697	geckodriver	INFO	Listening on 127.0.0.1:12492
+1629117927720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileWz2KNF"
+1629117928046	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileWz2KNF\\search.json.mozlz4", (void 0)))
+1629117929946	Marionette	INFO	Listening on port 12501
+1629117930382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: this._element is null
+1629117935814	Marionette	INFO	Stopped listening on port 12501
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629117979616	geckodriver	INFO	Listening on 127.0.0.1:12581
+1629117982649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileUJfbFb"
+1629117982965	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileUJfbFb\\search.json.mozlz4", (void 0)))
+1629117984728	Marionette	INFO	Listening on port 12591
+1629117984805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629118005756	Marionette	INFO	Stopped listening on port 12591
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629118017049	geckodriver	INFO	Listening on 127.0.0.1:12694
+1629118020093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilevrpWTm"
+1629118020428	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilevrpWTm\\search.json.mozlz4", (void 0)))
+1629118022364	Marionette	INFO	Listening on port 12706
+1629118022573	Marionette	INFO	Stopped listening on port 12706
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+[Parent 30816, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629118026341	geckodriver	INFO	Listening on 127.0.0.1:12735
+1629118029384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileCbqvVH"
+1629118029703	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileCbqvVH\\search.json.mozlz4", (void 0)))
+1629118031721	Marionette	INFO	Listening on port 12746
+1629118032044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629118034507	Marionette	INFO	Stopped listening on port 12746
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629118131364	geckodriver	INFO	Listening on 127.0.0.1:12879
+1629118134403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileKBuxtV"
+1629118134734	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileKBuxtV\\search.json.mozlz4", (void 0)))
+1629118136625	Marionette	INFO	Listening on port 12890
+1629118137065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629119562852	Marionette	INFO	Stopped listening on port 12890
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 14572, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+profileclx6Qk\\search.json.mozlz4", (void 0)))
+1629119237347	Marionette	INFO	Listening on port 13669
+1629119237372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629119245992	geckodriver	INFO	Listening on 127.0.0.1:13713
+1629119249006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileQrOAaK"
+1629119249319	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileQrOAaK\\search.json.mozlz4", (void 0)))
+1629119251032	Marionette	INFO	Listening on port 13724
+1629119251052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629119562891	Marionette	INFO	Stopped listening on port 13724
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofile5uRTKX"
+1629119407974	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofile5uRTKX\\search.json.mozlz4", (void 0)))
+1629119409799	Marionette	INFO	Listening on port 13889
+1629119409818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629119562871	Marionette	INFO	Stopped listening on port 13889
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofile83FXPR"
+1629119459877	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofile83FXPR\\search.json.mozlz4", (void 0)))
+1629119461719	Marionette	INFO	Listening on port 13981
+1629119462228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629119562826	Marionette	INFO	Stopped listening on port 13981
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 17972, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ta\\Local\\Temp\\rust_mozprofileuVIR4v\\search.json.mozlz4", (void 0)))
+1629119495827	Marionette	INFO	Listening on port 14060
+1629119496319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629119562789	Marionette	INFO	Stopped listening on port 14060
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 29548, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 29548, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ent	WARN	TLS certificate errors will be ignored for this session
+1629119562814	Marionette	INFO	Stopped listening on port 7270
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 4976, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+tings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileAIoKaK\\search.json.mozlz4", (void 0)))
+1629119556162	Marionette	INFO	Listening on port 7352
+1629119556199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629119562776	Marionette	INFO	Stopped listening on port 7352
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 15728, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 15728, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1629119608308	geckodriver	INFO	Listening on 127.0.0.1:7445
+1629119611329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilePo2axE"
+1629119611633	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilePo2axE\\search.json.mozlz4", (void 0)))
+1629119613344	Marionette	INFO	Listening on port 7454
+1629119613380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629119691438	Marionette	INFO	Stopped listening on port 7454
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofile0kjx3p\\search.json.mozlz4", (void 0)))
+1629119685364	Marionette	INFO	Listening on port 7560
+1629119685434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629119691388	Marionette	INFO	Stopped listening on port 7560
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629119745545	geckodriver	INFO	Listening on 127.0.0.1:7659
+1629119748610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofile9MCDyl"
+1629119748914	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofile9MCDyl\\search.json.mozlz4", (void 0)))
+1629119750570	Marionette	INFO	Listening on port 7672
+1629119750654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629120300939	Marionette	INFO	Stopped listening on port 7672
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 16476, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1629120301072	Marionette	INFO	Stopped listening on port 7869
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 13816, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+h
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1629120300964	Marionette	INFO	Stopped listening 1629120301103	Marionette	INFO	Stopped listening on port 10879
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+arent 15688, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+FO	Listening on port 13681
+1629120006380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629120301041	Marionette	INFO	Stopped listening on port 13681
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 19216, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 19216, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Agent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1629120300976	Marionette	INFO	Stopped listening on port 13761
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 9436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+tings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilev8Ih1l\\search.json.mozlz4", (void 0)))
+1629120065600	Marionette	INFO	Listening on port 13842
+1629120065678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629120300975	Marionette	INFO	Stopped listening on port 13842
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 24020, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileHmTaw7\\search.json.mozlz4", (void 0)))
+1629120233886	Marionette	INFO	Listening on port 14041
+1629120234377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629120300971	Marionette	INFO	Stopped listening on port 14041
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 35640, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629120977916	geckodriver	INFO	Listening on 127.0.0.1:3215
+1629120980939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilewyZBJu"
+1629120981262	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilewyZBJu\\search.json.mozlz4", (void 0)))
+1629120983212	Marionette	INFO	Listening on port 3224
+1629120983601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/accounts/assets/bundle.1ee1084d65dc66ccbe03.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:445:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+1629123598256	Marionette	INFO	Stopped listening on port 3224
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 34128, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 34128, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+erIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, mesconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilea1EQ3I\\search.json.mozlz4", (void 0)))
+1629121414072	Marionette	INFO	Listening on port 7653
+1629121414105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629122053278	Marionette	INFO	Stopped listening on port 7653
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ll be lost
+
+\AppData\\Local\\Temp\\rust_mozprofileFtg7TC\\search.json.mozlz4", (void 0)))
+1629121561457	Marionette	INFO	Listening on port 7996
+1629121561762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/accounts/assets/bundle.1ee1084d65dc66ccbe03.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+1629121610796	Marionette	INFO	Stopped listening on port 7996
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629121653742	geckodriver	INFO	Listening on 127.0.0.1:8189
+1629121656763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileZmZvBq"
+1629121657133	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileZmZvBq\\search.json.mozlz4", (void 0)))
+1629121659267	Marionette	INFO	Listening on port 8200
+1629121659426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629121695727	Marionette	INFO	Stopped listening on port 8200
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629121696833	geckodriver	INFO	Listening on 127.0.0.1:8322
+1629121699872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileiZzPZB"
+1629121700233	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileiZzPZB\\search.json.mozlz4", (void 0)))
+1629121702368	Marionette	INFO	Listening on port 8333
+1629121702533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/accounts/assets/bundle.1ee1084d65dc66ccbe03.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+1629121945984	Marionette	INFO	Stopped listening on port 8333
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilenw3g5O\\search.json.mozlz4", (void 0)))
+1629121752985	Marionette	INFO	Listening on port 8483
+1629121753484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/accounts/assets/bundle.1ee1084d65dc66ccbe03.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+1629121948688	Marionette	INFO	Stopped listening on port 8483
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629121897208	geckodriver	INFO	Listening on 127.0.0.1:8821
+1629121900252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilezFFoL4"
+1629121900581	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilezFFoL4\\search.json.mozlz4", (void 0)))
+1629121902578	Marionette	INFO	Listening on port 8834
+1629121902922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/accounts/assets/bundle.1ee1084d65dc66ccbe03.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+1629122052011	Marionette	INFO	Stopped listening on port 8834
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 9256, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilemfF4bZ\\search.json.mozlz4", (void 0)))
+1629122053294	Marionette	INFO	Listening on port 9089
+1629122053776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629122990047	Marionette	INFO	Stopped listening on port 9089
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629122990978	Marionette	INFO	Stopped listening on port 9293
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629122991827	Marionette	INFO	Stopped listening on port 9399
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629122992513	Marionette	INFO	Stopped listening on port 9601
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+profileNsD13J\\search.json.mozlz4", (void 0)))
+1629122752765	Marionette	INFO	Listening on port 14595
+1629122753006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629123598238	Marionette	INFO	Stopped listening on port 14595
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ttings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629123598200	Marionette	INFO	Stopped listening on port 7231
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 33296, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ngs: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629123598181	Marionette	INFO	Stopped listening on port 14947
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 37828, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629123598183	Marionette	INFO	Stopped listening on port 9036
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 24392, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+e.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629123598090	Marionette	INFO	Stopped listening on port 13691
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+oh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629123598144	Marionette	INFO	Stopped listening on port 9803
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 40744, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+e.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629123598073	Marionette	INFO	Stopped listening on port 13435
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 30992, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+93	Marionette	INFO	Stopped listening on port 13624
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629123297532	geckodriver	INFO	Listening on 127.0.0.1:14866
+1629123300531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilefgikmy"
+1629123300924	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilefgikmy\\search.json.mozlz4", (void 0)))
+1629123303010	Marionette	INFO	Listening on port 14876
+1629123303193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629123312598	Marionette	INFO	Stopped listening on port 14876
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629123490226	geckodriver	INFO	Listening on 127.0.0.1:5886
+1629123493265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilezubBlA"
+1629123493607	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilezubBlA\\search.json.mozlz4", (void 0)))
+1629123495772	Marionette	INFO	Listening on port 5897
+1629123495926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629123598064	Marionette	INFO	Stopped listening on port 5897
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 40700, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ta\\Local\\Temp\\rust_mozprofile3CGKQ4\\search.json.mozlz4", (void 0)))
+1629123557157	Marionette	INFO	Listening on port 6060
+1629123557658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629123596095	Marionette	INFO	Stopped listening on port 6060
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofilehvJ7MH"
+1629123585267	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilehvJ7MH\\search.json.mozlz4", (void 0)))
+1629123587337	Marionette	INFO	Listening on port 6188
+1629123587563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629123598060	Marionette	INFO	Stopped listening on port 6188
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 32676, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629123604389	geckodriver	INFO	Listening on 127.0.0.1:6291
+1629123607401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofile76NAXH"
+1629123607732	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofile76NAXH\\search.json.mozlz4", (void 0)))
+1629123609439	Marionette	INFO	Listening on port 6301
+1629123609552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629123624401	Marionette	INFO	Stopped listening on port 6301
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629123625664	geckodriver	INFO	Listening on 127.0.0.1:6400
+1629123628695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileC7kdBG"
+1629123629023	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileC7kdBG\\search.json.mozlz4", (void 0)))
+1629123630774	Marionette	INFO	Listening on port 6410
+1629123630853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629123778197	Marionette	INFO	Stopped listening on port 6410
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilep1jqMW\\search.json.mozlz4", (void 0)))
+1629123723989	Marionette	INFO	Listening on port 6758
+1629123724040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/accounts/assets/bundle.1ee1084d65dc66ccbe03.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+1629123777274	Marionette	INFO	Stopped listening on port 6758
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilekLMLiu\\search.json.mozlz4", (void 0)))
+1629123746369	Marionette	INFO	Listening on port 6885
+1629123746765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629123776060	Marionette	INFO	Stopped listening on port 6885
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, mesconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilejCkIGr\\search.json.mozlz4", (void 0)))
+1629123777358	Marionette	INFO	Listening on port 7010
+1629123777706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629127605400	Marionette	INFO	Stopped listening on port 7010
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ettings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-searconsole.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Inval1629127605799	Marionette	INFO	Stopped listening on port 7148
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ettings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629127605858	Marionette	INFO	Stopped listening on port 5471
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 34316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1629124557156	Marionette	INFO	Stopped listening on port 5585
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629124557204	addons.xpi	ERROR	Failed to download system add-on reset-search-defaults@mozilla.com: Error: Failed downloading via XHR, status: 0, reason: error(resource://gre/modules/addons/ProductAddonChecker.jsm:244:16) JS Stack trace: fail@ProductAddonChecker.jsm:244:16
+1629124557205	addons.xpi	ERROR	Failed to download system add-on addons-search-detection@mozilla.com: Error: Failed downloading via XHR, status: 0, reason: error(resource://gre/modules/addons/ProductAddonChecker.jsm:244:16) JS Stack trace: fail@ProductAddonChecker.jsm:244:16
+ot a request https://s.pximg.net/accounts/assets/bundle.1ee1084d65dc66ccbe03.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+1629124556220	Marionette	INFO	Stopped listening on port 5243
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofile3pJtEo\\search.json.mozlz4", (void 0)))
+1629124534079	Marionette	INFO	Listening on port 5442
+1629124534292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629127605361	Marionette	INFO	Stopped listening on port 5442
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 9516, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 9516, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629127605943	Marionette	INFO	Stopped listening on port 5578
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 39792, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+e.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629127605491	Marionette	INFO	Stopped listening on port 11029
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+xtID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629127606138	Marionette	INFO	Stopped listening on port 11232
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629127605863	Marionette	INFO	Stopped listening on port 11363
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 15216, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629127605545	Marionette	INFO	Stopped listening on port 11489
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629127605652	Marionette	INFO	Stopped listening on port 11703
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 40940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629127605785	Marionette	INFO	Stopped listening on port 10319
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629127605745	Marionette	INFO	Stopped listening on port 10466
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629127605728	Marionette	INFO	Stopped listening on port 10734
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629127605609	Marionette	INFO	Stopped listening on port 10924
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 22140, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629127605813	Marionette	INFO	Stopped listening on port 11066
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-searchconsole.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Inv1629127605645	Marionette	INFO	Stopped listening on port 11201
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629127605564	Marionette	INFO	Stopped listening on port 11512
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 38244, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629127605984	Marionette	INFO	Stopped listening on port 11646
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 8444, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingConconsole.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629127605661629127605804	Marionette	INFO	Stopped listening on JavaScript eJavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource:///modules/PanelMultiView.jsm, line 1216: TypeError: currentView is undefined
+console.warn: "Resource  of root-node was not found."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.warn: "Resource  of root-node was not found."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is 1629127605525	Marionette	INFO	Stopped listening on port 12543
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+rs/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle24 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error writing request: getGrids"
+JavaScript error: https://heodolf.tistory.com/80, line 78: ReferenceError: hljs is not defined
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 367))
+console.error: "Could not get the list of font families" (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle24 (resource://devtools/server/actors/page-style.js:367:24)", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototy1629127605934	Marionette	INFO	Stopped listening on port 10668
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+te	INFO	Stopped listening on port 12392
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 48000, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+rver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629126376900	geckodriver	INFO	Listening on 127.0.0.1:5329
+1629126379935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofile7qCtNe"
+1629126380343	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofile7qCtNe\\search.json.mozlz4", (void 0)))
+1629126382541	Marionette	INFO	Listening on port 5342
+1629126382605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/accounts/assets/bundle.1ee1084d65dc66ccbe03.css without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629127605342	Marionette	INFO	Stopped listening on port 5342
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ettings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629127605261	Marionette	INFO	Stopped listening on port 8033
+JavaScript error: chrome://browser/content/browser-customization.js, line 166: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ontextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.css.de654475bee7532f2eb8.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.7f2ff27df20447832947.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/whitecube.4956473d86a06a1604d2.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/novel.css?e33e02939027a17c33dcf867633e3485 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/accounts-index.css?d0172981c4b6639ebfce708d96e589df without a browsingContextID set
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629127605803	Marionette	INFO	Stopped listening on port 8125
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Settings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileeW2ybh\\search.json.mozlz4", (void 0)))
+1629127035399	Marionette	INFO	Listening on port 13985
+1629127035722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629127044690	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.css~whitecube.bf67668d2a3d33ffd7fc.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.css.de654475bee7532f2eb8.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.7f2ff27df20447832947.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/whitecube.4956473d86a06a1604d2.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/novel.css?e33e02939027a17c33dcf867633e3485 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/accounts-index.css?d0172981c4b6639ebfce708d96e589df without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+console.warn: "Resource  of root-node was not found."
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-searconsole.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Inval1629127605621	Marionette	INFO	Stopped listening on port 13985
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ttings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1629127605365	Marionette	INFO	Stopped listening on port 2359
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+URE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofiletocEes\\search.json.mozlz4", (void 0)))
+1629127386592	Marionette	INFO	Listening on port 2782
+1629127386760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629127605297	Marionette	INFO	Stopped listening on port 2782
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofilexfKAZf"
+1629127445715	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilexfKAZf\\search.json.mozlz4", (void 0)))
+1629127448234	Marionette	INFO	Listening on port 2957
+1629127448471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.css~whitecube.bf67668d2a3d33ffd7fc.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.css.de654475bee7532f2eb8.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.7f2ff27df20447832947.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/whitecube.4956473d86a06a1604d2.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/novel.css?e33e02939027a17c33dcf867633e3485 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/accounts-index.css?d0172981c4b6639ebfce708d96e589df without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+1629127605427	Marionette	INFO	Stopped listening on port 2957
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 54072, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileYarGkq\\search.json.mozlz4", (void 0)))
+1629127553573	Marionette	INFO	Listening on port 3207
+1629127554076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629127605290	Marionette	INFO	Stopped listening on port 3207
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629127610768	geckodriver	INFO	Listening on 127.0.0.1:9480
+1629127613779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileHuQrqa"
+1629127614201	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileHuQrqa\\search.json.mozlz4", (void 0)))
+1629127616413	Marionette	INFO	Listening on port 9493
+1629127616450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.css~whitecube.bf67668d2a3d33ffd7fc.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.css.de654475bee7532f2eb8.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.7f2ff27df20447832947.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/whitecube.4956473d86a06a1604d2.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/novel.css?e33e02939027a17c33dcf867633e3485 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/accounts-index.css?d0172981c4b6639ebfce708d96e589df without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+1629127819702	Marionette	INFO	Stopped listening on port 9493
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 61432, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ta\\Local\\Temp\\rust_mozprofile196Wd6\\search.json.mozlz4", (void 0)))
+1629127716635	Marionette	INFO	Listening on port 9708
+1629127716818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629130424696	Marionette	INFO	Stopped listening on port 9708
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+est https://s.pximg.net/www/js/build/pixiv.css.de654475bee7532f2eb8.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.7f2ff27df20447832947.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/whitecube.4956473d86a06a1604d2.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/novel.css?e33e02939027a17c33dcf867633e3485 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/accounts-index.css?d0172981c4b6639ebfce708d96e589df without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-searchconsole.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Inv1629130424764	Marionette	INFO	Stopped listening on port 9853
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 38900, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ngs: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629130424698	Marionette	INFO	Stopped listening on port 10179
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+uest https://s.pximg.net/www/js/build/pixiv.css.de654475bee7532f2eb8.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.7f2ff27df20447832947.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/whitecube.4956473d86a06a1604d2.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/novel.css?e33e02939027a17c33dcf867633e3485 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/accounts-index.css?d0172981c4b6639ebfce708d96e589df without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629130424925	Marionette	INFO	Stopped listening on port 10355
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 43296, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t https://s.pximg.net/www/js/build/pixiv.7f2ff27df20447832947.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/whitecube.4956473d86a06a1604d2.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/novel.css?e33e02939027a17c33dcf867633e3485 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/accounts-index.css?d0172981c4b6639ebfce708d96e589df without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629130425101	Marionette	INFO	Stopped listening on port 4488
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 49420, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 49420, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+gnature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629130424826	Marionette	INFO	Stopped listening on port 4679
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 45956, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.7f2ff27df20447832947.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/whitecube.4956473d86a06a1604d2.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/novel.css?e33e02939027a17c33dcf867633e3485 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/accounts-index.css?d0172981c4b6639ebfce708d96e589df without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.css~whitecube.bf67668d2a3d33ffd7fc.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.css.de654475bee7532f2eb8.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.7f2ff27df20447832947.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/whitecube.4956473d86a06a1604d2.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/novel.css?e33e02939027a17c33dcf867633e3485 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/accounts-index.css?d0172981c4b6639ebfce708d96e589df without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629130424856	Marionette	INFO	Stopped listening on port 2149
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 61572, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 61572, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rk-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.css~whitecube.bf67668d2a3d33ffd7fc.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.css.de654475bee7532f2eb8.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.7f2ff27df20447832947.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/whitecube.4956473d86a06a1604d2.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/novel.css?e33e02939027a17c33dcf867633e3485 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/accounts-index.css?d0172981c4b6639ebfce708d96e589df without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629130424697	Marionette	INFO	Stopped listening on port 8548
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 38008, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+.7f2ff27df20447832947.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/whitecube.4956473d86a06a1604d2.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/novel.css?e33e02939027a17c33dcf867633e3485 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/accounts-index.css?d0172981c4b6639ebfce708d96e589df without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Si1629129137817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofile5lgRZl"
+1629129138180	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofile5lgRZl\\search.json.mozlz4", (void 0)))
+1629129140071	Marionette	INFO	Listening on port 9279
+1629129140485	RemoteAgent	WARN	TLS certificonsole.log: WebExtensions: reset-default-searconsole.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Inval1629130425122	Marionette	INFO	Stopped listening on port 8760
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 1380, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 1380, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629130424651	Marionette	INFO	Stopped listening on port 9279
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 40476, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629130424712	Marionette	INFO	Stopped listening on port 9482
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+est https://s.pximg.net/www/js/build/pixiv.css.de654475bee7532f2eb8.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.7f2ff27df20447832947.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/whitecube.4956473d86a06a1604d2.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/novel.css?e33e02939027a17c33dcf867633e3485 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/accounts-index.css?d0172981c4b6639ebfce708d96e589df without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629130424694	Marionette	INFO	Stopped listening on port 9647
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 57160, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.7f2ff27df20447832947.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/whitecube.4956473d86a06a1604d2.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/novel.css?e33e02939027a17c33dcf867633e3485 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/accounts-index.css?d0172981c4b6639ebfce708d96e589df without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629130425017	Marionette	INFO	Stopped listening on port 9884
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 33088, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+uest https://s.pximg.net/www/js/build/pixiv.7f2ff27df20447832947.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/whitecube.4956473d86a06a1604d2.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/novel.css?e33e02939027a17c33dcf867633e3485 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/accounts-index.css?d0172981c4b6639ebfce708d96e589df without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-searchconsole.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Inv1629130424819	Marionette	INFO	Stopped listening on port 10110
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629130424674	Marionette	INFO	Stopped listening on port 10421
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+uest https://s.pximg.net/www/js/build/pixiv.css.de654475bee7532f2eb8.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.7f2ff27df20447832947.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/whitecube.4956473d86a06a1604d2.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/novel.css?e33e02939027a17c33dcf867633e3485 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/accounts-index.css?d0172981c4b6639ebfce708d96e589df without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629130424986	Marionette	INFO	Stopped listening on port 10597
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 40644, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+esource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.7f2ff27df20447832947.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/whitecube.4956473d86a06a1604d2.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/novel.css?e33e02939027a17c33dcf867633e3485 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/accounts-index.css?d0172981c4b6639ebfce708d96e589df without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-searconsole.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Inval1629130424960	Marionette	INFO	Stopped listening on port 7015
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 40432, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1629130424944	Marionette	INFO	Stopped listening on port 7296
+JavaScript error: resource:///modules/InteractJavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 40500, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileuiNy5R\\search.json.mozlz4", (void 0)))
+1629130101994	Marionette	INFO	Listening on port 1926
+1629130102120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.css~whitecube.bf67668d2a3d33ffd7fc.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.css.de654475bee7532f2eb8.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.7f2ff27df20447832947.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/whitecube.4956473d86a06a1604d2.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/novel.css?e33e02939027a17c33dcf867633e3485 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/accounts-index.css?d0172981c4b6639ebfce708d96e589df without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2909: TypeError: event.target.closest is not a function
+1629130424676	Marionette	INFO	Stopped listening on port 1926
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileALrRO0"
+1629130268547	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileALrRO0\\search.json.mozlz4", (void 0)))
+1629130270508	Marionette	INFO	Listening on port 2243
+1629130270865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.css~whitecube.bf67668d2a3d33ffd7fc.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.css.de654475bee7532f2eb8.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/pixiv.7f2ff27df20447832947.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/js/build/whitecube.4956473d86a06a1604d2.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/novel.css?e33e02939027a17c33dcf867633e3485 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s.pximg.net/www/css/accounts-index.css?d0172981c4b6639ebfce708d96e589df without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/styles__ltr.css without a browsingContextID set
+1629130424852	Marionette	INFO	Stopped listening on port 2243
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 9652, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ata\\Local\\Temp\\rust_mozprofile7LTIvp\\search.json.mozlz4", (void 0)))
+1629130375462	Marionette	INFO	Listening on port 2490
+1629130424654	Marionette	INFO	Stopped listening on port 2490
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofilerymZRZ\\search.json.mozlz4", (void 0)))
+1629130380781	Marionette	INFO	Listening on port 2544
+1629130380957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629130424898	Marionette	INFO	Stopped listening on port 2544
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 22836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1629130427870	geckodriver	INFO	Listening on 127.0.0.1:2692
+1629130430884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileFLlu54"
+1629130431255	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileFLlu54\\search.json.mozlz4", (void 0)))
+1629130433352	Marionette	INFO	Listening on port 2702
+1629130433549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2251:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+id content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-searconsole.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-searconsole.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629131714501	geckodriver	INFO	Listening on 127.0.0.1:7833
+1629131717539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileVPD5bH"
+1629131717871	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss00\\AppData\\Local\\Temp\\rust_mozprofileVPD5bH\\search.json.mozlz4", (void 0)))
+1629131719995	Marionette	INFO	Listening on port 7843
+1629131720200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
